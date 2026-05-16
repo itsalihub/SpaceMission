@@ -12,9 +12,8 @@ A C# .NET console application that guides astronauts through an asteroid field t
 - Extensible pathfinding via IPathFinder interface
 
 ## How to Run
-```
-dotnet run
-```
+dotnet run 
+
 
 ## Map Symbols
 - S1, S2, S3 - Astronauts
