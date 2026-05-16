@@ -1,0 +1,14 @@
+C:\Users\ACER\SpaceMission\bin\Debug\net8.0\SpaceMission.exe
+C:\Users\ACER\SpaceMission\bin\Debug\net8.0\SpaceMission.deps.json
+C:\Users\ACER\SpaceMission\bin\Debug\net8.0\SpaceMission.runtimeconfig.json
+C:\Users\ACER\SpaceMission\bin\Debug\net8.0\SpaceMission.dll
+C:\Users\ACER\SpaceMission\bin\Debug\net8.0\SpaceMission.pdb
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.AssemblyInfoInputs.cache
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.AssemblyInfo.cs
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.csproj.CoreCompileInputs.cache
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.dll
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\refint\SpaceMission.dll
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.pdb
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\SpaceMission.genruntimeconfig.cache
+C:\Users\ACER\SpaceMission\obj\Debug\net8.0\ref\SpaceMission.dll
